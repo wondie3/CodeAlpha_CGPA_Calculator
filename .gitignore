@@ -1,0 +1,14 @@
+﻿build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+.ninja_*
+*.exe
+*.dll
+*.obj
+*.a
+*.lib
+*.user
+*.bak
+*.broken-backup
